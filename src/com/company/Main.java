@@ -36,7 +36,7 @@ public class Main {
             System.out.println("Дурак отрицательный возраст вводить?");
         }
         if (age > 0 & age < 18) {
-            System.out.println("Учи уроки эмобой бля!");
+            System.out.println("Учи уроки эмобой!");
         } else System.out.println("Папе за пивом тепрь ходишь и в ПОЛЬШУ!");
     }
 
